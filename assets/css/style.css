@@ -121,7 +121,7 @@ header {
     align-items: center;
 }
 
-.about-section--right .buttons button {
+a {
     border: 0;
     cursor: pointer;
     color: #FFFFFF;
